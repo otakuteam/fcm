@@ -1,12 +1,14 @@
 [
   {
+    "rest_api_key": "OWYxZGQ1ZDUtOTYxMC00ODM0LWFkMzgtNDQ3NjdlMTZjOTYz",
+    "app_id": "94b4a66b-8a7e-4568-bce7-ceb3959d43dc"
     "name": "Avenger",
     "pkg": "com.example.project.avenger",
-    "token": "94b4a66b-8a7e-4568-bce7-ceb3959d43dc"
   },
   {
+    "rest_api_key": "OWYxZGQ1ZDUtOTYxMC00ODM0LWFkMzgtNDQ3NjdlMTZjOTYz",
+    "app_id": "94b4a66b-8a7e-4568-bce7-ceb3959d43dc"
     "name": "Daijobu Test",
     "pkg": "com.daijoubu.test.wallpaper",
-    "token": "94b4a66b-8a7e-4568-bce7-ceb3959d43dc"
   }
 ]
