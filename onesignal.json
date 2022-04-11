@@ -10,5 +10,17 @@
     "app_id": "94b4a66b-8a7e-4568-bce7-ceb3959d43dc",
     "name": "Daijobu Test",
     "pkg": "com.daijoubu.test.wallpaper"
+  },
+   {
+    "rest_api_key": "YjA1MzVjMDYtYmEyNy00Y2M5LTkwNjgtZThkYTU2OGI0M2I1",
+    "app_id": "a49693f2-e8e1-4a08-914a-1c16a3fe9194",
+    "name": "Gohi - Kimetsu no Yaiba Wallpaper",
+    "pkg": "com.gohi.kny.wallpaper"
+  },
+   {
+    "rest_api_key": "OTgwNTA2OGItODFjMS00MmUzLThlYjgtMWJiZjRhMGU1YTI3",
+    "app_id": "b3f4a4fb-8d63-4ffc-9b4c-9fb948f38c33",
+    "name": "Faizy Dev - BTS Wallpaper",
+    "pkg": "com.faizydev.bts.wallpaper"
   }
 ]
