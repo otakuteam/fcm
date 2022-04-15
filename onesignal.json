@@ -18,6 +18,30 @@
     "pkg": "com.gohi.kny.wallpaper"
   },
    {
+    "rest_api_key": "YjA1MzVjMDYtYmEyNy00Y2M5LTkwNjgtZThkYTU2OGI0M2I1",
+    "app_id": "a49693f2-e8e1-4a08-914a-1c16a3fe9194",
+    "name": "Gohi - Nezuko Wallpaper",
+    "pkg": "com.gohi.nezuko.wallpaper"
+  },
+   {
+    "rest_api_key": "YjA1MzVjMDYtYmEyNy00Y2M5LTkwNjgtZThkYTU2OGI0M2I1",
+    "app_id": "a49693f2-e8e1-4a08-914a-1c16a3fe9194",
+    "name": "Gohi - Tanjiro Wallpaper",
+    "pkg": "com.gohi.tanjiro.wallpaper"
+  },
+   {
+    "rest_api_key": "YjA1MzVjMDYtYmEyNy00Y2M5LTkwNjgtZThkYTU2OGI0M2I1",
+    "app_id": "a49693f2-e8e1-4a08-914a-1c16a3fe9194",
+    "name": "Gohi - Zenitsu Wallpaper",
+    "pkg": "com.gohi.zenitsu.wallpaper"
+  },
+   {
+    "rest_api_key": "YjA1MzVjMDYtYmEyNy00Y2M5LTkwNjgtZThkYTU2OGI0M2I1",
+    "app_id": "a49693f2-e8e1-4a08-914a-1c16a3fe9194",
+    "name": "Gohi - Inosuke Wallpaper",
+    "pkg": "com.gohi.inosuke.wallpaper"
+  },
+   {
     "rest_api_key": "OTgwNTA2OGItODFjMS00MmUzLThlYjgtMWJiZjRhMGU1YTI3",
     "app_id": "b3f4a4fb-8d63-4ffc-9b4c-9fb948f38c33",
     "name": "Faizy Dev - BTS Wallpaper",
