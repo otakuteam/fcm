@@ -52,5 +52,17 @@
     "app_id": "ca1d6f93-515c-4c32-816b-b8af4d84e6c2",
     "name": "Anbu - Spy x Family Shimeji",
     "pkg": "Subscribed Users"
+  },
+    {
+    "rest_api_key": "OGNiYzU0NzMtMGM1ZS00OGQ3LTk5NDgtMDVmNzRkNzI0YjZi",
+    "app_id": "eee360f9-f454-4371-a168-d6b1b78fd57e",
+    "name": "Shimeji Dev - One Piece Shimeji",
+    "pkg": "Subscribed Users"
+  },
+    {
+    "rest_api_key": "ODAyMTljY2EtMmQwYi00NWM2LTgzNzMtODg2Y2VlMGU1ODBj",
+    "app_id": "01f32d87-6017-4b2d-8a16-27a1753d8f33",
+    "name": "Shimeji Dev - Genshin Impact Shimeji",
+    "pkg": "Subscribed Users"
   }
 ]
