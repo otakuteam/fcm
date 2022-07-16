@@ -64,5 +64,11 @@
     "app_id": "01f32d87-6017-4b2d-8a16-27a1753d8f33",
     "name": "Shimeji Dev - Genshin Impact Shimeji",
     "pkg": "Subscribed Users"
+  },
+   {
+    "rest_api_key": "NGFlNWRiNDctMzE1ZS00ZDA2LTkyNTctNDMyODBiYmIyYjFm",
+    "app_id": "8d405075-f2ec-40f8-8ab0-8b2888871d06",
+    "name": "Anbu - Jujutsu Kaisen Shimeji",
+    "pkg": "Subscribed Users"
   }
 ]
