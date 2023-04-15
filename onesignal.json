@@ -100,5 +100,23 @@
     "app_id": "c73ce935-f783-48c9-8f0a-8b760ad9d2f2",
     "name": "Gohi Studio Apps 2",
     "pkg": "Subscribed Users"
+  },
+  {
+    "rest_api_key": "NTI3NjZiMWItZGRlNi00YTI0LTk2N2MtOTM1MTA5OWMzNjk3",
+    "app_id": "e8dc5f18-0a8c-4ed8-b701-5385eaf10eef",
+    "name": "Pirate King - One Piece Wallpaper",
+    "pkg": "Subscribed Users"
+  },
+   {
+    "rest_api_key": "OGRjODBiN2MtMTkwNi00MWZkLThjMjAtNTM5YjYyYTdkZDk5",
+    "app_id": "db87f511-1f3c-4d4b-817a-0233d7bcac0c",
+    "name": "Pirate King - Dragon Ball Wallpaper",
+    "pkg": "Subscribed Users"
+  },
+    {
+    "rest_api_key": "Zjc2MzBlMjktM2E2ZS00OTM1LTk4YTItMzM2YzljMjBhMzlh",
+    "app_id": "acc52e45-17de-46fb-b16f-d0acfaedf2fe",
+    "name": "Pirate King - All Apps",
+    "pkg": "Subscribed Users"
   }
 ]
