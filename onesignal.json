@@ -124,5 +124,53 @@
     "app_id": "67926050-4980-445f-85f7-5855b82e31eb",
     "name": "Soul Fortunate - All Apps",
     "pkg": "Subscribed Users"
+  },
+    {
+    "rest_api_key": "MWU0M2ViZjItYzY5Yi00ZDIxLWJlMGItODkyYzE2Y2U4OTll",
+    "app_id": "b2ea879e-3b4b-4e83-8f44-5aaab7467459",
+    "name": "Anbu - Shimeji-ee",
+    "pkg": "Subscribed Users"
+  },
+    {
+    "rest_api_key": "MjE4NzU2MGUtNjM0OC00ZmExLTgwNmQtOWFlOGU3MzA4N2U4",
+    "app_id": "bd833b00-6f31-4e35-9e9f-25679e69e345",
+    "name": "Anbu - AOT Shimeji",
+    "pkg": "Subscribed Users"
+  },
+    {
+    "rest_api_key": "NTYyZTg2MjAtOWQ0Yy00YzU3LWE0NmQtNWYxZTM1NzljYTMy",
+    "app_id": "e916c97b-2d54-49ec-bc55-99ca36131d60",
+    "name": "Anbu - Jujutsu Kaisen Sticker",
+    "pkg": "Subscribed Users"
+  },
+    {
+    "rest_api_key": "ZmI1MGIwNjMtZGM1OC00NWZiLWJmYzYtOGVjNzkxZjQ1NjM0",
+    "app_id": "c4bd497a-db35-4150-997f-347b68e4d2da",
+    "name": "Anbu - KNY Shimeji",
+    "pkg": "Subscribed Users"
+  },
+    {
+    "rest_api_key": "ZDc1MGNkMWQtNWM3MC00YmUxLTg0NjktMWIxYWRhOTk5NDYw",
+    "app_id": "274e761b-6029-4618-aa2c-329ce2886530",
+    "name": "Anbu - KNY Sticker",
+    "pkg": "Subscribed Users"
+  },
+    {
+    "rest_api_key": "YzI2M2MzMzAtMmE3Mi00NWU3LWI2YWQtNzc4Y2NjODliYWU2",
+    "app_id": "b9d9dd37-20f6-4daf-aebb-ce4b631f6721",
+    "name": "Anbu - MHA Shimeji",
+    "pkg": "Subscribed Users"
+  },
+    {
+    "rest_api_key": "YTkwNWE3NGItNjVhNC00N2EwLWEzZTEtNzdjYzI2YjZiY2Fl",
+    "app_id": "d3844747-d9a1-4a30-8677-c9eb953a71bf",
+    "name": "Anbu - Tokyo Revenger Sticker",
+    "pkg": "Subscribed Users"
+  },
+    {
+    "rest_api_key": "OWRjMmY0YmMtMzhiYS00NTdlLTgzZGItNTNlNGQ0OTUwZDJh",
+    "app_id": "2818f638-970c-4984-a168-b7febfefd2bf",
+    "name": "Anbu - Undertale Shimeji",
+    "pkg": "Subscribed Users"
   }
 ]
