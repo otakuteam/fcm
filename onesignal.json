@@ -178,5 +178,11 @@
     "app_id": "296e38de-0c2e-4a9e-bbc0-6e2d36db432d",
     "name": "Minmin - Anime Sticker",
     "pkg": "Total Subscriptions"
+  },
+   {
+    "rest_api_key": "YzllYzE5ZmMtMWQwOC00YjU2LTg5MjgtNGJhZDJjNzcyZDg2",
+    "app_id": "3e8fae70-9e74-4219-a589-a032ee2d44c7",
+    "name": "KakChan - Anime Battery Widget",
+    "pkg": "Total Subscriptions"
   }
 ]
